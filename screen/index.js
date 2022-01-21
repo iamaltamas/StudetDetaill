@@ -1,0 +1,6 @@
+export{default as Home} from './Home/Home'
+export {default as ProfileDetail} from './ProfileDetail/ProfileDetail'
+export {default as FeeDetail} from './FeeDetail/FeeDetail'
+export {default as PayFee} from './PayFee/PayFee'
+export {default as PaymentDetail} from './PaymentDetail/PaymentDetail'
+export {default as DocumentDetail} from './DocumentDetail/DocumentDetail'
